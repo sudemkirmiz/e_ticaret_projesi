@@ -25,6 +25,7 @@ Analiz sırasında veri temizliği, Keşifsel Veri Analizi (EDA) ve görselleşt
 ### Proje Dosyaları:
 
 | Dosya Adı | Açıklama |
+| :--- | :--- |
 | `ecommerce_analysis.ipynb` | Veri yükleme, temizlik, EDA ve görselleştirme adımlarının uygulandığı ana Python Notebook dosyası. |
 | `ANALIZ_RAPORU.md` | Yönetime sunulan, bulguları ve önerileri özetleyen nihai rapor. |
 | `cinsiyet_dagilimi.png` | Cinsiyet bazlı işlem sayılarının dağılımını gösteren görsel. |
