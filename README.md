@@ -51,7 +51,9 @@ Bilgisayarınızda bir **Terminal** (macOS/Linux) veya **Git Bash** / **Komut İ
 
 Açtığınız komut satırı penceresine aşağıdaki komutu aynen yapıştırın ve **Enter** tuşuna basın:
 
-```bash gh repo clone sudemkirmiz/e_ticaret_projesi ```bash
+```bash 
+gh repo clone sudemkirmiz/e_ticaret_projesi
+```bash
 
 Ardından proje klasörüne gidin
 cd e_ticaret_projesi
