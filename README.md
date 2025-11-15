@@ -30,3 +30,26 @@ Analiz sırasında veri temizliği, Keşifsel Veri Analizi (EDA) ve görselleşt
 | `ANALIZ_RAPORU.md` | Yönetime sunulan, bulguları ve önerileri özetleyen nihai rapor. |
 | `cinsiyet_dagilimi.png` | Cinsiyet bazlı işlem sayılarının dağılımını gösteren görsel. |
 | `gunluk_satis_dagilimi.png` | Haftanın günlerine göre toplam satış adedini gösteren görsel. |
+
+## 🚀 Projeyi Yerel Bilgisayarınıza Kopyalama (Clone)
+
+Bu adımlar, projemizi kullanmaya başlamanız için gerekli olan tüm dosyaları bilgisayarınıza indirmenizi sağlar.
+
+### Gereksinimler
+
+Projemizi kopyalamak ve çalıştırmak için bilgisayarınızda **Git** programının kurulu olması gerekmektedir.
+
+### Adım Adım Kopyalama (Cloning)
+
+Projeyi bilgisayarınıza indirmek sadece tek bir komut gerektirir.
+
+#### Adım 1: Komut Satırını Açın
+
+Bilgisayarınızda bir **Terminal** (macOS/Linux) veya **Git Bash** / **Komut İstemi (CMD)** (Windows) uygulamasını açın.
+
+#### Adım 2: Kopyalama Komutunu Çalıştırın
+
+Açtığınız komut satırı penceresine aşağıdaki komutu aynen yapıştırın ve **Enter** tuşuna basın:
+
+```bash
+gh repo clone sudemkirmiz/e_ticaret_projesi
