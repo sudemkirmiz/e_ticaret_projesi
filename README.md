@@ -31,7 +31,7 @@ Analiz sırasında veri temizliği, Keşifsel Veri Analizi (EDA) ve görselleşt
 | `cinsiyet_dagilimi.png` | Cinsiyet bazlı işlem sayılarının dağılımını gösteren görsel. |
 | `gunluk_satis_dagilimi.png` | Haftanın günlerine göre toplam satış adedini gösteren görsel. |
 
-## 🚀 Projeyi Yerel Bilgisayarınıza Kopyalama (Clone)
+## Projeyi Yerel Bilgisayarınıza Kopyalama (Clone)
 
 Bu adımlar, projemizi kullanmaya başlamanız için gerekli olan tüm dosyaları bilgisayarınıza indirmenizi sağlar.
 
