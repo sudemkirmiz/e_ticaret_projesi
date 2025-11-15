@@ -63,7 +63,7 @@ Bu projede kullanılan tüm Python kütüphaneleri requirements.txt dosyasında 
 ```bash
 pip install -r requiremints.txt
 ```
-Projenin tüm analiz adımları aşağıdaki Jupyter Notebook dosyasında bulunmaktadır->ecommerce_analysis.ipynb Notebook’u başlatmak için;
+Projenin tüm analiz adımları aşağıdaki Jupyter Notebook dosyasında bulunmaktadır
 ```bash
 jupyter notebook ecommerce_analysis.ipynb
 ```
