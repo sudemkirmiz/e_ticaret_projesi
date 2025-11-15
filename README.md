@@ -54,15 +54,18 @@ Açtığınız komut satırı penceresine aşağıdaki komutu aynen yapıştır�
 ```bash 
 gh repo clone sudemkirmiz/e_ticaret_projesi
 ```
-
 Ardından proje klasörüne gidin
 ```bash 
 cd e_ticaret_projesi
 ```
 
-
+Bu projede kullanılan tüm Python kütüphaneleri requirements.txt dosyasında listelenmiştir. Aşağıdaki komutla hepsini tek tıkla kurabilirsiniz.
+```bash
 pip install -r requiremints.txt
-
-python3 eticaret.py
+```
+Projenin tüm analiz adımları aşağıdaki Jupyter Notebook dosyasında bulunmaktadır->ecommerce_analysis.ipynb Notebook’u başlatmak için;
+```bash
+jupyter notebook ecommerce_analysis.ipynb
+```
 
 
