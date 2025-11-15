@@ -53,10 +53,12 @@ Açtığınız komut satırı penceresine aşağıdaki komutu aynen yapıştır�
 
 ```bash 
 gh repo clone sudemkirmiz/e_ticaret_projesi
-```bash
+```
 
 Ardından proje klasörüne gidin
+```bash 
 cd e_ticaret_projesi
+```
 
 
 pip install -r requiremints.txt
